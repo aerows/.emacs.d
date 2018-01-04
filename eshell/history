@@ -1,0 +1,11 @@
+python
+clear
+
+pip
+python -m pip
+sudo
+sudo -h python -m pip install flake8
+sudo python -m pip install flake8
+clear
+
+exit()
